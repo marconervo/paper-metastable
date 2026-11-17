@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: alpha.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Database file #1: bib.bib
+Warning--empty journal in Antieau
+Warning--can't use both volume and number fields in Behrens2010
+Warning--empty journal in Fuentes
+Warning--can't use both volume and number fields in Tate
+Warning--can't use both volume and number fields in Gijsapprox
+Warning--empty journal in kleinnew
+Warning--empty publisher in HA
+Warning--empty note in NervoCircle
+Warning--empty journal in Riedel
+Warning--empty journal in Lucio
+Warning--empty journal in Yuqing
+You've used 48 entries,
+            2543 wiz_defined-function locations,
+            875 strings with 10171 characters,
+and the built_in function-call counts, 17248 in all, are:
+= -- 1761
+> -- 582
+< -- 46
++ -- 169
+- -- 167
+* -- 1219
+:= -- 2782
+add.period$ -- 150
+call.type$ -- 48
+change.case$ -- 249
+chr.to.int$ -- 47
+cite$ -- 59
+duplicate$ -- 760
+empty$ -- 1366
+format.name$ -- 245
+if$ -- 3518
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 54
+newline$ -- 244
+num.names$ -- 148
+pop$ -- 227
+preamble$ -- 1
+purify$ -- 305
+quote$ -- 0
+skip$ -- 596
+stack$ -- 0
+substring$ -- 1113
+swap$ -- 101
+text.length$ -- 46
+text.prefix$ -- 30
+top$ -- 0
+type$ -- 352
+warning$ -- 11
+while$ -- 179
+width$ -- 52
+write$ -- 619
+(There were 11 warnings)

@@ -1,0 +1,26 @@
+\contentsline {section}{\tocsection {}{}{Introduction}}{1}{section*.2}%
+\contentsline {subsection}{\tocsubsection {}{}{Acknowledgments}}{4}{section*.3}%
+\contentsline {section}{\tocsection {}{}{Background}}{5}{section*.4}%
+\contentsline {subsection}{\tocsubsection {}{}{Conventions}}{5}{section*.5}%
+\contentsline {subsection}{\tocsubsection {}{}{Equivariant tools}}{5}{section*.6}%
+\contentsline {section}{\tocsection {}{1}{Metastable structures}}{7}{section.1}%
+\contentsline {subsection}{\tocsubsection {}{1.1}{Definition and examples}}{7}{subsection.1.1}%
+\contentsline {subsection}{\tocsubsection {}{1.2}{Obstructions}}{11}{subsection.1.2}%
+\contentsline {subsection}{\tocsubsection {}{1.3}{Classification}}{14}{subsection.1.3}%
+\contentsline {subsection}{\tocsubsection {}{1.4}{Equivariant reformulation}}{18}{subsection.1.4}%
+\contentsline {section}{\tocsection {}{2}{The metastable category}}{20}{section.2}%
+\contentsline {subsection}{\tocsubsection {}{2.1}{Construction}}{20}{subsection.2.1}%
+\contentsline {subsection}{\tocsubsection {}{2.2}{Monoidality}}{25}{subsection.2.2}%
+\contentsline {subsection}{\tocsubsection {}{2.3}{Polynomial approximations}}{29}{subsection.2.3}%
+\contentsline {subsection}{\tocsubsection {}{2.4}{Splittings and desuspensions}}{33}{subsection.2.4}%
+\contentsline {section}{\tocsection {}{3}{EHP sequences}}{39}{section.3}%
+\contentsline {subsection}{\tocsubsection {}{3.1}{Canonical resolution}}{41}{subsection.3.1}%
+\contentsline {subsection}{\tocsubsection {}{3.2}{The metastable EHP sequence}}{44}{subsection.3.2}%
+\contentsline {subsection}{\tocsubsection {}{3.3}{The 0-sphere}}{50}{subsection.3.3}%
+\contentsline {subsection}{\tocsubsection {}{3.4}{The 1-sphere}}{55}{subsection.3.4}%
+\contentsline {section}{\tocsection {}{4}{Miscellanea}}{61}{section.4}%
+\contentsline {subsection}{\tocsubsection {}{4.1}{Mahowald invariant}}{61}{subsection.4.1}%
+\contentsline {subsection}{\tocsubsection {}{4.2}{Hilton--Milnor splitting}}{65}{subsection.4.2}%
+\contentsline {subsection}{\tocsubsection {}{4.3}{Odd primes}}{67}{subsection.4.3}%
+\contentsline {subsection}{\tocsubsection {}{4.4}{Adams spectral sequence}}{68}{subsection.4.4}%
+\contentsline {section}{\tocsection {}{}{References}}{69}{section*.7}%
